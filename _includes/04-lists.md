@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* I play a lot of tennis and also compete regularly
+* My favorite tennis players:
+  * Rafael Nadal
+  * Iga Swiatek
