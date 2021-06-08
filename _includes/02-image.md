@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Myself - stolen from the internet :P haha](https://media-exp1.licdn.com/dms/image/C4E03AQH8beOAfIiXpg/profile-displayphoto-shrink_200_200/0/1601052252671?e=1628121600&v=beta&t=DCUxZNmQu4Ao2qFBXXG4KdYqh4Cmvmg2fSBIRiNg8DA)
